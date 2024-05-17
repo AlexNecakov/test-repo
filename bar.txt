@@ -1,2 +1,2 @@
-this is a conflicting
-change
+this is a message from newbranch.
+master is smelly
