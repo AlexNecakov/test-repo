@@ -1,2 +1,1 @@
-this is foo.txt. it is a file
-that we have changed
+ready for public access
