@@ -1,1 +1,2 @@
-this is bar.txt
+this is a message from newbranch.
+master is smelly
